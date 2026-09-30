@@ -12,14 +12,10 @@
 
   <!-- Tech Stack -->
   <h3>⚡ Tech Stack & Tools</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,postgres,supabase,git,vscode,linux&perline=6" />
-  </p>
-
   <br />
 
-  <!-- GitHub Stats & Top Languages -->
-  <h3>📊 GitHub Overview</h3>
+  <!-- Shinobi Stats & Top raps -->
+  <h3>📊 Jinchuriki Overview</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=foolyoufool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foolyoufool&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
@@ -33,7 +29,7 @@
   <br />
 
   <!-- Profile Trophy -->
-  <h3>🏆 GitHub Trophies</h3>
+  <h3>🏆 Shinobi Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=foolyoufool&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="90%" />
 
 </div>
